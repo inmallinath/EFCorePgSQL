@@ -1,6 +1,7 @@
 ﻿using System;
+using EFCorePGSQL.Models;
 
-namespace ConsoleApplication
+namespace EFCorePGSQL
 {
     public class Program
     {
